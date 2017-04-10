@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|C:\Users\josh\Documents\Software\openFrameworks\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\ofxPangolin\|

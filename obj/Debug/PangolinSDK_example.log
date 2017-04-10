@@ -1,0 +1,11 @@
+﻿  main.cpp
+  ofApp.cpp
+  Pangolin.cpp
+     Creating library bin\PangolinSDK_example_debug.lib and object bin\PangolinSDK_example_debug.exp
+  PangolinSDK_example.vcxproj -> C:\Users\josh\Documents\Software\openFrameworks\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\ofxPangolin\bin\PangolinSDK_example_debug.exe
+  PangolinSDK_example.vcxproj -> bin\PangolinSDK_example_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\josh\Documents\Software\openFrameworks\of_v0.9.8_vs_release\of_v0.9.8_vs_release\export\vs\Win32\
+  	  *EXTRA File 		  620544	C:\Users\josh\Documents\Software\openFrameworks\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\ofxPangolin\bin\BEYONDIO.dll
+  	  *EXTRA File 		 1503232	C:\Users\josh\Documents\Software\openFrameworks\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\ofxPangolin\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	C:\Users\josh\Documents\Software\openFrameworks\of_v0.9.8_vs_release\of_v0.9.8_vs_release\apps\myApps\ofxPangolin\bin\fmodexL64.dll
